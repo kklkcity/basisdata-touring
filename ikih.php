@@ -589,7 +589,7 @@ function calculateAndDisplayRoute(directionsService, directionsDisplay) {
                                 $result = mysqli_query($conn,"SELECT * FROM info where id_info='i002' ");
                                 while($data = mysqli_fetch_object($result) ):
                                 echo $data->informasi;
-                                echo '<label>Alamat : </label>'$data->alamat;
+                                echo $data->alamat;
                                 endwhile;
                                 ?>             
                             </p>
