@@ -11,6 +11,8 @@ import database tour.sql terlebih dahulu
 
 2.Selanjutnya pastikan device terkoneksi dengan internet
 
-3.explorasi hasil kerja kami
+3.buka file ikih.php(sebagai index nya)
+
+4.explorasi hasil kerja kami
 
 NB:masih banyak yang belum selesai pak, dikarenakan banyak nya tugas yang lain juga, mohon maaf sebelumnya pak
